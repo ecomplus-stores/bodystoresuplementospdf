@@ -8,19 +8,14 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/economize-com-combos-promocional-4.png",
+          "link": "/combos-promocionais",
+          "alt": "Headset banner"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/emagreca-ja-1920-700-px.png"
         }
       ]
     },
@@ -30,18 +25,61 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "shuffle": false,
+      "collection_id": "62c86105eb859112167dc4a5:categories:COMBOS PROMOCIONAIS:/combos-promocionais",
+      "sort": "sales",
+      "title": "COMBOS PROMOCIONAIS",
+      "limit": "",
+      "page": ""
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "6234cbba2e405e04ffe8236c:categories:PROTEÍNAS:/proteinas",
+      "sort": "sales",
+      "title": "PROTEÍNAS",
+      "limit": "",
+      "page": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "62b5b584eb8591121663e7ad:categories:PRÉ TREINOS:/pre-treinos",
+      "sort": "sales",
+      "title": "PRÉ TREINOS",
+      "limit": "",
+      "page": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "6234946a2e405e04ffe75dae:categories:CREATINAS:/creatinas",
+      "sort": "sales",
+      "title": "CREATINAS",
+      "limit": "",
+      "page": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "62b5b43eeb8591121663e525:categories:EMAGRECEDORES:/termogenico",
+      "sort": "sales",
+      "title": "EMAGRECEDORES",
+      "limit": "",
+      "page": ""
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "62c43748eb859112167642b3:categories:HIPERCALÓRICOS:/hipercaloricos",
+      "sort": "sales",
+      "title": "HIPERCALÓRICOS",
+      "limit": "",
+      "page": ""
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
     }
   ]
 }

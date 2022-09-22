@@ -1,11 +1,11 @@
 {
   "store_id": 45081,
   "name": "bodystoresuplementospdf",
-  "domain": "bodystoresuplementospdf.netlify.app",
+  "domain": "bodystoresuplementos.com.br",
   "short_name": "bodystoresuplementospdf",
   "description": "bodystoresuplementospdf",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "primary_color": "#000000",
+  "secondary_color": "#ffc435",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
