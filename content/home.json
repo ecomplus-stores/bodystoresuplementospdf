@@ -10,7 +10,9 @@
         {
           "img": "/img/uploads/economize-com-combos-promocional-4.png",
           "link": "/combos-promocionais",
-          "alt": "Headset banner"
+          "alt": "Headset banner",
+          "start": "",
+          "end": ""
         },
         {
           "start": "",
