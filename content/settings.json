@@ -1,25 +1,25 @@
 {
-  "store_id": 45081,
-  "name": "bodystoresuplementospdf",
   "domain": "bodystoresuplementos.com.br",
-  "short_name": "bodystoresuplementospdf",
-  "description": "bodystoresuplementospdf",
+  "currency_symbol": "R$",
   "primary_color": "#000000",
-  "secondary_color": "#ffc435",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffc435",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "bodystoresuplementospdf",
+  "short_name": "bodystoresuplementospdf",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/design-sem-nome-67-.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#ffc435",
+  "icon": "/img/uploads/design-sem-nome-67-.png",
+  "store_id": 45081,
+  "description": "bodystoresuplementospdf",
+  "large_icon": "/img/uploads/design-sem-nome-67-.png"
 }
