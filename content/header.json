@@ -6,16 +6,19 @@
     "color": "#212127"
   },
   "contacts_stripe": {
-    "pages": [
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 8,
+    "featured": [
+      "/creatina?CREATINAS"
+    ],
+    "random": 9,
     "full_width": true
   },
   "desktop_megamenu": true,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
