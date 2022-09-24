@@ -30,7 +30,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 2,
+      "collection_id": "632f09f573321213f88b7150:categories:SALDÃO $:/saldao-",
+      "sort": "lowest_price",
+      "link": "https://bodystoresuplementos.com.br/saldao-"
     },
     {
       "type": "collection-shelf",
