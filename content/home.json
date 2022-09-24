@@ -29,6 +29,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": "62c86105eb859112167dc4a5:categories:COMBOS PROMOCIONAIS:/combos-promocionais",
       "sort": "sales",
       "title": "COMBOS PROMOCIONAIS",
